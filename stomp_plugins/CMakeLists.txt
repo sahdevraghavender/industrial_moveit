@@ -8,6 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
   stomp_moveit
   cmake_modules
   pluginlib
+  
 )
 
 find_package(Eigen3 REQUIRED)
